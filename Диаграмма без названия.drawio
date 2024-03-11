@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T19:35:34.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D9st-K9av-zNZeyGTyZ9" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T21:05:01.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4xBXj8i4dfv1pTJIYT9V" version="24.0.4" type="github">
   <diagram name="Страница — 1" id="5WF0044wQxZKyZhO8BZU">
-    <mxGraphModel dx="1656" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KTGAiCn1GxETAqPLr9Fc-2" value="database" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/database-128.png" vertex="1" parent="1">
-          <mxGeometry x="2750" y="42.5" width="182.5" height="182.5" as="geometry" />
+          <mxGeometry x="2798.04" y="140" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KTGAiCn1GxETAqPLr9Fc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-3" target="KTGAiCn1GxETAqPLr9Fc-17">
           <mxGeometry relative="1" as="geometry" />
@@ -597,6 +597,267 @@
             <mxPoint x="2923.5" y="685" as="sourcePoint" />
             <mxPoint x="2780" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-105" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/10838/10838328.png;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="-43" width="173" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-2" target="KTGAiCn1GxETAqPLr9Fc-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-114" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Отримання інформації&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;про доступні місця на парковці&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;sup&gt;ЗД&lt;/sup&gt;&lt;/b&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
+            <mxPoint x="3540" y="70" as="targetPoint" />
+            <mxPoint x="3120" y="70.05882352941171" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-118" value="Кількість обробленних&lt;div&gt;відвідувачів&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-116" target="KTGAiCn1GxETAqPLr9Fc-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3670" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-116" target="KTGAiCn1GxETAqPLr9Fc-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-116" value="Бізнес-процесс&lt;div&gt;відображення рекомендованної&amp;nbsp;&lt;/div&gt;&lt;div&gt;парковочної зони&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="20" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-119" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;U&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-117" target="KTGAiCn1GxETAqPLr9Fc-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3340" y="30" />
+              <mxPoint x="3540" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-117" target="KTGAiCn1GxETAqPLr9Fc-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-117" value="Адміністратор&amp;nbsp;&lt;div&gt;парковки&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3580" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-121" value="&lt;p class=&quot;MsoNormal&quot;&gt;(&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language:EN-US&quot;&gt;f&lt;sub&gt;n &lt;/sub&gt;)&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;UK&quot; style=&quot;mso-ansi-language:UK&quot;&gt;Змінна попиту&lt;sub&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-124" target="KTGAiCn1GxETAqPLr9Fc-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4117.176470588235" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-124" target="KTGAiCn1GxETAqPLr9Fc-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-124" target="KTGAiCn1GxETAqPLr9Fc-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-124" target="KTGAiCn1GxETAqPLr9Fc-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-124" value="Прибуття на паркувальну зону" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="2.5" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-128" target="KTGAiCn1GxETAqPLr9Fc-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-128" value="БЦ&lt;div&gt;розпізнавання автомобіля за номером&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="-170" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-130" target="KTGAiCn1GxETAqPLr9Fc-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-130" value="Реєстрація часу перебування&amp;nbsp;&lt;div&gt;користувачів&amp;nbsp;&lt;/div&gt;&lt;div&gt;за номером авто&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4150" y="-330" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-132" target="KTGAiCn1GxETAqPLr9Fc-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-132" target="KTGAiCn1GxETAqPLr9Fc-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4050" y="35" />
+              <mxPoint x="4140" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-132" value="відображененя&lt;div&gt;поточного часу паркування у застосунку&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="-300" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-139" value="Оплата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4650" y="53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-137" value="Виїзд з парковки" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4380" y="22.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-140" value="керівник парковки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-141" value="БЦ&lt;div&gt;рекомендованної схеми заїзду&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3830" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-141" target="KTGAiCn1GxETAqPLr9Fc-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-146" target="KTGAiCn1GxETAqPLr9Fc-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4430" y="-380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-146" value="БЦ&lt;div&gt;навантаження&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;на паркувальну зону&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="-180" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-132" target="KTGAiCn1GxETAqPLr9Fc-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3819" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-153" value="Податкова" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.government;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="-100" width="51.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-137" target="KTGAiCn1GxETAqPLr9Fc-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4650" y="53" as="targetPoint" />
+            <mxPoint x="4500" y="53" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-151" target="KTGAiCn1GxETAqPLr9Fc-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4740" y="53" />
+              <mxPoint x="4740" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-151" value="Програмне РРо" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/103/103849.png;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="22.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-156" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Отримання інформації&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;про вільні зарядні станції&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;sup&gt;ЗД&lt;/sup&gt;&lt;/b&gt;&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-105">
+          <mxGeometry x="0.0046" relative="1" as="geometry">
+            <mxPoint x="3460" y="356" as="targetPoint" />
+            <mxPoint x="2970" y="221.18" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-157" target="KTGAiCn1GxETAqPLr9Fc-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-157" target="KTGAiCn1GxETAqPLr9Fc-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-157" value="Бізнес-процесс&lt;div&gt;пошуку та бронювання зарядної станції&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3410" y="356" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-159" target="KTGAiCn1GxETAqPLr9Fc-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-159" value="Відображення вільних станцій" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="356" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-162" target="KTGAiCn1GxETAqPLr9Fc-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-162" value="Бронювання" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="536" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3475" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-165" value="Предавторизація коштів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3410" y="547" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-169" target="KTGAiCn1GxETAqPLr9Fc-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3900" y="405.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-169" value="Прибуття на парковку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3656.5" y="356" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-173" value="Відкритя шлакбауму" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/7395/7395394.png;" vertex="1" parent="1">
+          <mxGeometry x="3667" y="542" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3943.3399999999992" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-191" value="Оплата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="403.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-175" value="БЦ зарядки" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ekopal.if.ua/files/icon-service-04.png;clipPath=inset(12.33% 23.33% 13.67% 25%);" vertex="1" parent="1">
+          <mxGeometry x="3910" y="356" width="66.68" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-178" target="KTGAiCn1GxETAqPLr9Fc-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-178" target="KTGAiCn1GxETAqPLr9Fc-175">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3911" y="506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-178" value="Підключення до станції&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3878.34" y="560" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-180" target="KTGAiCn1GxETAqPLr9Fc-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-180" value="Ініціація зарядки" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="575" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-183" target="KTGAiCn1GxETAqPLr9Fc-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-183" value="Моніторинг статусу зарядки" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4205" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-185" target="KTGAiCn1GxETAqPLr9Fc-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-185" value="Повідомлення про закінчення заряджання" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4205" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-187" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Відключення&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4065" y="451.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.892;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-187" target="KTGAiCn1GxETAqPLr9Fc-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-193" value="Податкова" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.government;" vertex="1" parent="1">
+          <mxGeometry x="4390" y="356" width="51.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KTGAiCn1GxETAqPLr9Fc-175" target="KTGAiCn1GxETAqPLr9Fc-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="403.75" as="targetPoint" />
+            <mxPoint x="3977" y="404" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="4040" y="380" />
+              <mxPoint x="4040" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTGAiCn1GxETAqPLr9Fc-192" value="Програмне РРо" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/103/103849.png;" vertex="1" parent="1">
+          <mxGeometry x="4230" y="350" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
